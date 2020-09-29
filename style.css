@@ -1,0 +1,35 @@
+#log
+{
+border: 2px solid black;
+padding: 60px 40px;
+margin-top: 80px;
+-webkit-box-shadow: -7px -8px 53px 26px rgba(0,0,0,0.75);
+-moz-box-shadow: -7px -8px 53px 26px rgba(0,0,0,0.75);
+box-shadow: -7px -8px 53px 26px rgba(0,0,0,0.75);
+}
+img
+{
+border-radius: 50%;
+width: 150px;
+margin-left: 120px;
+}
+h1
+{
+color:black;
+text-align: center;    
+font-weight: bolder;
+margin-top: -20px;
+}
+
+label
+{
+    font-size: 20px;
+    color: black;
+}
+.btn
+{
+    -webkit-box-shadow: 0px 34px 31px 6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 34px 31px 6px rgba(0,0,0,0.75);
+    box-shadow: 0px 34px 31px 6px rgba(0,0,0,0.75);
+       
+}
